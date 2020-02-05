@@ -4,7 +4,7 @@
   <!-- 首页导航栏 -->
   <view class="nav_wrap">
     <!-- 小程序自己的滚动区域的组件 -->
-    <scroll-view class="nav" scroll-y>
+    <scroll-view class="nav" scroll-x>
       <view bindtap="activeNav" data-index='{{index}}' class="nav_item {{index===currentIndexNav?'active':''}}" wx:for="{{navList}}" wx:key="index">
         {{item.text}}
       </view>
