@@ -5,7 +5,8 @@
     "pages/detail/detail",
     "pages/test/test",
     "pages/t3/t3",
-    "pages/t2/t2"
+    "pages/t2/t2",
+    "pages/t1/t1"
 
   ],
   "window": {
