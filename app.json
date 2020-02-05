@@ -2,7 +2,11 @@
   "pages": [
     "pages/index/index",
     "pages/lsy1/lsy1",
-    "pages/detail/detail"
+    "pages/detail/detail",
+    "pages/test/test",
+    "pages/t3/t3",
+    "pages/t2/t2"
+
   ],
   "window": {
     "backgroundTextStyle": "light",
