@@ -1,8 +1,6 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/index2/index",
-    "pages/index3/index",
     "pages/detail/detail"
   ],
   "window": {
